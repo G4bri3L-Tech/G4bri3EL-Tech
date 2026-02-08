@@ -1,1 +1,2 @@
-# G4bri3EL-Tech
+## Hi there!
+Eu sou Gabriel, sou um Programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
